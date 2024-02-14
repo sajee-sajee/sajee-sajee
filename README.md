@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **Sajeeshsarang087@gmail.com**
 
-- 📄 Know about my experiences [I have done my works on my projects](I have done my works on my projects)
-
 - ⚡ Fun fact **Machine learning engineers often joke that their models are like their children - they’re hard to understand, require a lot of attention, and keep them up at night😁**
 
 ### Blogs posts
