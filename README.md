@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **Sajeeshsarang087@gmail.com**
 
-- ⚡ Fun fact **Machine learning engineers often joke that their models are like their children - they’re hard to understand, require a lot of attention, and keep them up at night😁**
+- ⚡ **Machine learning engineers often joke that their models are like their children - they’re hard to understand, require a lot of attention, and keep them up at night😁**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
