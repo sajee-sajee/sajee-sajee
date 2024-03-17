@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi, I'm <b>SAJEESH K</b></h1>
-<h3 align="center">A passionate ML developer from India</h3>
+<h3 align="center">A ML Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajee-sajee&label=Profile%20views&color=0e75b6&style=flat" alt="sajee-sajee" /> </p>
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/sajee11567622" target="blank"><img src="https://img.shields.io/twitter/follow/sajee11567622?logo=twitter&style=for-the-badge" alt="sajee11567622" /></a> </p>
 
-- 🔭 I’m currently working on [Voice generator in python](https://github.com/sajee-sajee/Voice-generator-using-python.git)
+- 🔭 I’m currently working on [Voice generator in Python](https://github.com/sajee-sajee/Voice-generator-using-python.git)
 
 - 🌱 I’m currently learning **React,Django**
 
-- 👯 I’m looking to collaborate on [Voice generator in python](https://github.com/sajee-sajee/Voice-generator-using-python.git)
+- 👯 I’m looking to collaborate on [Voice generator in Python](https://github.com/sajee-sajee/Voice-generator-using-python.git)
 
-- 🤝 I’m looking for help with [Voice generator in python](https://github.com/sajee-sajee/Voice-generator-using-python.git)
+- 🤝 I’m looking for help with [Voice generator in Python](https://github.com/sajee-sajee/Voice-generator-using-python.git)
 
 - 💬 Ask me about **Tensor-Flow,Algorithms😊**
 
