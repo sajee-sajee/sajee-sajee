@@ -1,4 +1,5 @@
 <h1 align="center">
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sajeesh K;Welcome+to+my+GitHub+Profile!;A+Passionate+Developer+%26+Tech+Enthusiast;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
   </a>
@@ -60,6 +61,10 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/iamsajeee?theme=dark&font=Karma&ext=activity" />
 </p>
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajee-sajee&layout=donut-vertical&theme=dracula"/>
+</div>
+
 
 ---
 
