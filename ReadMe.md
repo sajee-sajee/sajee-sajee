@@ -56,9 +56,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajee-sajee&theme=github-dark&hide_border=true&area=true" />
 </div>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/iamsajeee?theme=dark&font=Karma&ext=activity" />
-</p>
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajee-sajee&layout=donut-vertical&theme=dracula"/>
 </div>
