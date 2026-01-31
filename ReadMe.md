@@ -1,100 +1,140 @@
+<!-- ===================== HERO SECTION ===================== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm <span style="color:#7F00FF">Sajeesh K</span>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="110"/>
+
+  <h1>
+    Hey, I'm <span style="color:#7F00FF">Sajeesh K</span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+  </h1>
+
+  <p><b>Full Stack Developer • DevOps Enthusiast • Final Year B.Tech (CSE)</b></p>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%26+DevOps+Student;Building+%22Food+Gaadi%22+with+Flutter+%26+Supabase;Honda+Civic+Type+R+Enthusiast+%F0%9F%8F%8E%EF%B8%8F;%22Code+is+Poetry%2C+Debug+with+Patience%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%26+DevOps+Student;Building+Production-Grade+Apps;Flutter+%7C+React+%7C+Docker+%7C+Supabase;Code+with+Logic.+Build+with+Impact." alt="Typing SVG" />
   </a>
+
 </div>
 
 <p align="center">
-  <a href="https://github.com/sajee-sajee">
-    <img src="https://komarev.com/ghpvc/?username=sajee-sajee&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sajee-sajee&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/sajee-sajee?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/sajee-sajee?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 The Developer Behind the Code
+## 🧠 About Me
 
-I am a **Final Year B.Tech Student** at **Lovely Professional University (Class of 2026)** with a passion that sits at the intersection of logic and creativity. 
+🎓 **Final Year B.Tech – Computer Science (AI & ML)**  
+📍 **Lovely Professional University | Class of 2026**
 
-My journey started with **Machine Learning**—exploring deep learning for sleep apnea detection—but has recently shifted gears toward **Full-Stack Engineering** and **DevOps**. I don't just write code; I strive to build ecosystems that are scalable, efficient, and user-centric.
+I’m a **builder-first engineer** who enjoys converting ideas into **scalable, real-world systems**.
 
-### 🚀 **Current Mission: Food Gaadi**
-I am currently architecting **Food Gaadi**, a comprehensive food delivery solution.
-- **The Tech:** Built using **Flutter** for a seamless UI and **Supabase** for a robust, real-time backend.
-- **The Challenge:** Solving complex state management issues, optimizing Gradle builds, and ensuring secure database integration.
-- **The Goal:** To deploy a production-ready application that rivals market standards.
+- Started with **Machine Learning & AI**
+- Transitioned into **Full Stack Engineering & DevOps**
+- Passionate about **system design, automation, and clean architecture**
+- Believe in **learning by shipping**, not just studying
+
+> _“Good code works. Great code scales.”_
 
 ---
 
-## ⚡ Technical Arsenal
+## 🚀 Current Focus
+
+### 🍔 Food Gaadi — Full Stack Food Delivery Platform
+**Tech Stack:** Flutter • Supabase • PostgreSQL • Docker
+
+- Real-time backend with Supabase
+- Secure authentication & role-based access
+- Optimized state management
+- Production-ready architecture
+- CI-friendly build setup
+
+🎯 **Goal:** Ship a scalable app that matches industry-grade standards.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,dart,js&perline=5" />
-  <br><br>
-  
-  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind&perline=5" />
-  <br><br>
-  
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,docker,linux,git,github&perline=6" />
-  
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,js&perline=5"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind&perline=5"/>
+
+### Backend & DevOps
+<img src="https://skillicons.dev/icons?i=supabase,firebase,docker,linux,git,github&perline=6"/>
+
 </div>
 
 ---
 
-## 🔮 Beyond the Keyboard
+## 🧩 Featured Interests
 
-When I am not resolving merge conflicts or configuring pipelines, you will find me:
-
-* 🏎️ **Studying Automotive Engineering:** I am obsessed with the aerodynamics and engineering of the **Honda Civic Type R**.
-* ✍️ **Writing Poetry:** I believe code is just poetry written for machines. I write creative pieces in both English and Malayalam.
-* ✋ **Palmistry:** Exploring the ancient art of palm reading and interpretation.
+- 🏎️ **Automotive Engineering** — Honda Civic Type R obsession
+- ✍️ **Poetry & Writing** — English & Malayalam
+- 🧠 **Palmistry & Psychology**
+- ⚙️ **Low-level systems & performance tuning**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajee-sajee&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajee-sajee&theme=react&hide_border=true&bg_color=0D1117&ring=61dafb&fire=61dafb&currStreakNum=61dafb" width="48%" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sajee-sajee&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajee-sajee&theme=react&hide_border=true&background=0D1117"/>
+
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajee-sajee&theme=react-dark&hide_border=true&area=true&color=61dafb" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajee-sajee&theme=react-dark&hide_border=true&area=true"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sajeeshk1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sajeeshsarang087@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/amsajeee">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-   <a href="https://leetcode.com/u/iamsajeee/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+
+<a href="https://www.linkedin.com/in/sajeeshk1/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sajeeshsarang087@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/amsajeee">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://leetcode.com/u/iamsajeee/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </div>
 
-<br>
+---
+
+## ☕ Support My Work
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/sajeeshk">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
   </a>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
+  <br/>
+  <b>Thanks for visiting — let’s build something impactful 🚀</b>
 </div>
