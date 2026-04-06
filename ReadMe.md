@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 🎓 **Final Year B.Tech – Computer Science (AI & ML)**  
 📍 **Lovely Professional University | Class of 2026**
@@ -40,9 +40,9 @@ I’m a **builder-first engineer** who enjoys converting ideas into **scalable, 
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
-### 🍔 Food Gaadi — Full Stack Food Delivery Platform
+###  Food Gaadi — Full Stack Food Delivery Platform
 **Tech Stack:** Flutter • Supabase • PostgreSQL • Docker
 
 - Real-time backend with Supabase
@@ -51,11 +51,11 @@ I’m a **builder-first engineer** who enjoys converting ideas into **scalable, 
 - Production-ready architecture
 - CI-friendly build setup
 
-🎯 **Goal:** Ship a scalable app that matches industry-grade standards.
+**Goal:** Ship a scalable app that matches industry-grade standards.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -72,16 +72,15 @@ I’m a **builder-first engineer** who enjoys converting ideas into **scalable, 
 
 ---
 
-## 🧩 Featured Interests
+##  Featured Interests
 
-- 🏎️ **Automotive Engineering** — Honda Civic Type R obsession
-- ✍️ **Poetry & Writing** — English & Malayalam
-- 🧠 **Palmistry & Psychology**
-- ⚙️ **Low-level systems & performance tuning**
+-  **Automotive Engineering** — Honda Civic Type R obsession
+-  **Poetry & Writing** — English & Malayalam
+-  **Low-level systems & performance tuning**
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -99,7 +98,7 @@ I’m a **builder-first engineer** who enjoys converting ideas into **scalable, 
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -123,7 +122,7 @@ I’m a **builder-first engineer** who enjoys converting ideas into **scalable, 
 
 ---
 
-## ☕ Support My Work
+##  Support My Work
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/sajeeshk">
@@ -136,5 +135,5 @@ I’m a **builder-first engineer** who enjoys converting ideas into **scalable, 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
   <br/>
-  <b>Thanks for visiting — let’s build something impactful 🚀</b>
+  <b>Thanks for visiting — let’s build something impactful </b>
 </div>
