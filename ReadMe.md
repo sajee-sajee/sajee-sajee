@@ -84,19 +84,22 @@ I’m a **builder-first engineer** who enjoys converting ideas into **scalable, 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sajee-sajee&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/sajee-sajee?theme=tokyonight&hide_border=true" alt="Sajeesh's GitHub Stats" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajee-sajee&theme=react&hide_border=true&background=0D1117"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajee-sajee&theme=react&hide_border=true&background=0D1117" alt="Sajeesh's Streak" />
 
-</div>
+  <br/><br/>
+
+  
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajee-sajee&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajee-sajee&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
+
 
 ##  Connect With Me
 
