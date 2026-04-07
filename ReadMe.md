@@ -98,6 +98,8 @@ I’m a **builder-first engineer** who enjoys converting ideas into **scalable, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajee-sajee&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
+<img width="100%" src="https://metrics.lecoq.io/sajee-sajee?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=half-year" alt="GitHub Contribution Grid" />
+
 ---
 
 
