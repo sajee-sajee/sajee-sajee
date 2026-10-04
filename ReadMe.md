@@ -1,143 +1,33 @@
-<!-- ===================== HERO SECTION ===================== -->
-<div align="center">
+# Sajeesh K
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="110"/>
+**Computer Science graduate · Full-stack development · Python, Java and C++**
 
-  <h1>
-    Hey, I'm <span style="color:#7F00FF">Sajeesh K</span>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
-  </h1>
+B.Tech in Computer Science and Engineering (AI & ML), Lovely Professional University, Class of 2026. Based in Kerala, India; open to junior software engineering opportunities and relocation.
 
-  <p><b>Full Stack Developer • DevOps Enthusiast • Final Year B.Tech (CSE)</b></p>
+I build web applications and systems projects, with an emphasis on understanding how they work and making them easier to run, test and maintain.
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%26+DevOps+Student;Building+Production-Grade+Apps;Flutter+%7C+React+%7C+Docker+%7C+Supabase;Code+with+Logic.+Build+with+Impact." alt="Typing SVG" />
-  </a>
+## Selected projects
 
-</div>
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| [CollabRoom](https://github.com/sajee-sajee/collab-room) | Collaborative editing, team chat and container-based code execution | React, Node.js, Socket.IO, PostgreSQL, Docker |
+| [Food Gaadi](https://github.com/sajee-sajee/food_gaadi_app) | A food-truck vendor app with authentication and menu management; orders and revenue are currently demonstrations | Flutter, Dart, Supabase |
+| [Termino](https://github.com/sajee-sajee/Terminal-by-CPP) | A small Linux shell exploring processes, pipelines, redirection and background jobs | C++, POSIX |
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajee-sajee&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-  <img src="https://img.shields.io/github/followers/sajee-sajee?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/sajee-sajee?style=for-the-badge"/>
-</p>
+These are learning projects under active improvement. Their READMEs describe setup, current functionality and limitations.
 
----
+## Technical interests
 
-##  About Me
+- Building and debugging full-stack applications
+- Data structures and algorithms in Python
+- Linux processes, networking and development tooling
+- Automated tests and continuous integration
 
-🎓 **Final Year B.Tech – Computer Science (AI & ML)**  
-📍 **Lovely Professional University | Class of 2026**
+## More work
 
-I’m a **builder-first engineer** who enjoys converting ideas into **scalable, real-world systems**.
+- [Code Hub](https://github.com/sajee-sajee/Code-Hub): browser editor, code sharing and simulated execution UI.
+- [Apple counting](https://github.com/sajee-sajee/Counting-apples-using-image-processing): image-processing project.
 
-- Started with **Machine Learning & AI**
-- Transitioned into **Full Stack Engineering & DevOps**
-- Passionate about **system design, automation, and clean architecture**
-- Believe in **learning by shipping**, not just studying
+## Contact
 
-> _“Good code works. Great code scales.”_
-
----
-
-##  Current Focus
-
-###  Food Gaadi — Full Stack Food Delivery Platform
-**Tech Stack:** Flutter • Supabase • PostgreSQL • Docker
-
-- Real-time backend with Supabase
-- Secure authentication & role-based access
-- Optimized state management
-- Production-ready architecture
-- CI-friendly build setup
-
-**Goal:** Ship a scalable app that matches industry-grade standards.
-
----
-
-##  Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,js&perline=5"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind&perline=5"/>
-
-### Backend & DevOps
-<img src="https://skillicons.dev/icons?i=supabase,firebase,docker,linux,git,github&perline=6"/>
-
-</div>
-
----
-
-##  Featured Interests
-
--  **Automotive Engineering** — Honda Civic Type R obsession
--  **Poetry & Writing** — English & Malayalam
--  **Low-level systems & performance tuning**
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-  <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/sajee-sajee?theme=tokyonight&hide_border=true" alt="Sajeesh's GitHub Stats" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajee-sajee&theme=react&hide_border=true&background=0D1117" alt="Sajeesh's Streak" />
-
-  <br/><br/>
-
-  
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajee-sajee&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
-
----
-
-
-##  Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sajeeshk1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sajeeshk234@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://x.com/amsajeee">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://leetcode.com/u/iamsajeee/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-##  Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/sajeeshk">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220"/>
-  <br/>
-  <b>Thanks for visiting — let’s build something impactful </b>
-</div>
+[LinkedIn](https://www.linkedin.com/in/sajeeshk1/) · [Portfolio](https://term0-portfolio.vercel.app/) · [Email](mailto:sajeeshk234@gmail.com) · [LeetCode](https://leetcode.com/u/iamsajeee/)
